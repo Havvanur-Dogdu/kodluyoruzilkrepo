@@ -1,7 +1,6 @@
 # Kodluyoruz Ilk Repo
 
 ***
-
 Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![kodluyoruz ılk repo gorsel](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
@@ -9,7 +8,6 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğu
 ## Installation
 
 ***
-
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```
@@ -19,7 +17,6 @@ https://github.com/Havvanur-Dogdu/kodluyoruzilkrepo.git
 ## Usage
 
 ***
-
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
@@ -32,13 +29,11 @@ code .
 ## Contributing
 
 ***
-
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
 
 ***
-
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
